@@ -1,0 +1,9 @@
+{
+	"name": "adf-tcp-prj-01",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac0dc2a9-b0ed-40fe-9d3a-180544a9948e",
+		"tenantId": "19843fff-dfd9-47f6-ac0c-6dafee40bd86"
+	}
+}
